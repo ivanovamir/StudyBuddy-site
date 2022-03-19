@@ -9,6 +9,6 @@
 - JavaScript
 - 
 ### To start a project
-'''
+```
 python manage.py runserver
-'''
+```
