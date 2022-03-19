@@ -7,7 +7,7 @@
 - Django Rest Framework (3.13.1)
 - CSS
 - JavaScript
-- 
+
 ### To start a project
 ```
 python manage.py runserver
