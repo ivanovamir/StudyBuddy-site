@@ -1,2 +1,2 @@
-# StudyBuddy-site
-My first site on Django
+# My first site on Django
+
