@@ -8,6 +8,8 @@
 - CSS
 - JavaScript
 
+### Added support for mobile devices and devices at specific or low resolutions
+
 ### To start a project
 ```
 python manage.py runserver
