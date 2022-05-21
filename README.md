@@ -1,4 +1,4 @@
-# My first site on Django
+# My first site on Django :point_down:
 
 ## Technologies used in this project:
 - HTML
